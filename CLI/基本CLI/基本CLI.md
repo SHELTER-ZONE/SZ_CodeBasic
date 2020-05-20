@@ -14,3 +14,5 @@ CLI (Command Line Interface, 命令列介面)
 * 必須具有選項號碼 (可使用任何號碼，數字、英文字母、羅馬數字...均可)。
 * 使用者為輸入選項碼來選擇功能
 * CLI 只有當使用者選擇"結束"功能時，才能結束CLI。
+
+<img src="./CLI/基本CLI/Basic_CLI.gif">
