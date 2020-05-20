@@ -3,6 +3,8 @@ CLI (Command Line Interface, 命令列介面)
 
 是在圖形使用者介面得到普及之前使用最為廣泛的使用者介面，它通常不支援滑鼠，用戶通過鍵盤輸入指令，電腦接收到指令後，予以執行。
 
+## 難度：🔥
+
 ## 題目
 請寫一個能選擇加法與減法功能的CLI。
 
@@ -14,5 +16,8 @@ CLI (Command Line Interface, 命令列介面)
 * 必須具有選項號碼 (可使用任何號碼，數字、英文字母、羅馬數字...均可)。
 * 使用者為輸入選項碼來選擇功能
 * CLI 只有當使用者選擇"結束"功能時，才能結束CLI。
+* 選項的上下兩端，各別需用 100 個 `-` 符號包住 
 
-<img src="./CLI/基本CLI/Basic_CLI.gif">
+完成CLI之程式實際執行範例：
+
+<img src="https://github.com/SHELTER-ZONE/SZ_CodeBasic/blob/master/CLI/基本CLI/Basic_CLI.gif">
